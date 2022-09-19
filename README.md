@@ -3,15 +3,18 @@
 <h3 align="center">A tech enthusiast, and a full-Stack Web Developer.</h3>
 
 - 🔭 I’m currently working on <a href="https://www.zoomcar.com/">ZoomCar</a>
-- 🌱 I’m currently learning Full Stack Web Development.
+- 🌱 I’m currently learning Java.
 - 👯 I’m looking to collaborate on with other developers and designers.
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1wQOHQrUHgZGnV3ZtoBTZtItOMYxf53oS/view?usp=sharing">Resume Link</a>
- 
+- 📄 Know about my experiences <a href="https://github.com/Ranjanji/Ranjanji.github.io/raw/main/Subham_Ranjan_Resume.pdf">Resume Link</a>
+- 👨‍💻 All of my projects are available at https://ranjanji.github.io/
+- 💬 Ask me about HTML, CSS, JavaScript, Java
+- ⚡ Fun fact **I am funny😅**
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ranjanji&label=Profile%20views&color=0e75b6&style=flat" alt="subham-ranjan" /> </p>
 
-- ⚡ Fun fact **I am funny😅**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://ranjanji.github.io/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/726/726005.png" alt="simplified_learner" height="30" width="40" /></a>
