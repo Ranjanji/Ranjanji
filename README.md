@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on <a href="https://www.zoomcar.com/">ZoomCar</a>
 - 🌱 I’m currently learning Full Stack Web Development.
 - 👯 I’m looking to collaborate on with other developers and designers.
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1wQOHQrUHgZGnV3ZtoBTZtItOMYxf53oS/view?usp=sharing">Resume Link</a>
  
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
