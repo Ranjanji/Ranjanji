@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there 👋 Welcome to my Github!</h1>
 <h3 align="center">A tech enthusiast, and a full-Stack Web Developer.</h3>
-<h3 align="center">I’m Subham Ranjan, Class of 2020 Graduate in <b>Mechatronics<b> from Guru Gobind Singh Indraprastha University, New Delhi. I am an Backend Developer and an active learner. My go-to programming languages for day to day tasks is Java and JavaScript. Investing in tomorrow's technology today is more critical than ever</h3>
+<h4 align="left">I’m Subham Ranjan, Class of 2020 Graduate in <b>Mechatronics<b> from Guru Gobind Singh Indraprastha University, New Delhi. I am full stack developer and an active learner. My go-to programming languages for day to day tasks is Java and JavaScript.<br> I believe in Investing in tomorrow's technology today is more critical than ever.</h4>
 
 
 - 🔭 I’m currently working on <a href="https://www.zoomcar.com/">ZoomCar</a>
