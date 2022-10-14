@@ -4,11 +4,11 @@
 <h4 align="left">I’m Subham Ranjan, a Class of 2020 Graduate in <b>Mechatronics<b> from Guru Gobind Singh Indraprastha University, New Delhi. I am a full stack web developer and an active learner. My go-to programming languages for day-to-day tasks are Java and JavaScript. I believe in Investing in tomorrow's technology today is more critical than ever.</h4>
 
 
-- 🔭 I’m currently working on <a href="https://www.zoomcar.com/">ZoomCar</a>
+- 🔭 I’m currently working on <a href="https://www.zoomcar.com/" target="_blank">ZoomCar</a>
 - 🌱 I’m currently learning Spring Boot.
 - 👯 I’m looking to collaborate on with other developers and designers.
-- 📄 Know about my experiences <a href="https://github.com/Ranjanji/Ranjanji.github.io/raw/main/Subham_Ranjan_Resume.pdf">Resume Link</a>
-- 👨‍💻 All of my projects are available at https://ranjanji.github.io/
+- 📄 Know about my experiences <a href="https://github.com/Ranjanji/Ranjanji.github.io/raw/main/Subham_Ranjan_Resume.pdf"      target="_blank">Resume Link</a>
+- 👨‍💻 All of my projects are available at <a href="https://ranjanji.github.io/" target="_blank">portfolio</a>
 - 💬 Ask me about HTML, CSS, JavaScript, Java
 - ⚡ Fun fact **I am funny😅**
 
@@ -19,9 +19,9 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://ranjanji.github.io/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/726/726005.png" alt="simplified_learner" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/Subham-Ranjan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ranjanji_27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
+<a href="https://ranjanji.github.io/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/726/726005.png" alt="simplified_learner" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/Subham-Ranjan/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ranjanji_27/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
