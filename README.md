@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on <a href="https://www.zoomcar.com/" target="_blank">ZoomCar</a>
 - 🌱 I’m currently learning Spring Boot.
 - 👯 I’m looking to collaborate on with other developers and designers.
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1hu7CHQUusZY18gblYSPWr84Td2xF_ucO/view?usp=sharing"      target="_blank">Resume Link</a>
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1hu7CHQUusZY18gblYSPWr84Td2xF_ucO/view?usp=sharing){:target="_blank"}
 - 👨‍💻 All of my projects are available at <a href="https://ranjanji.github.io/" target="_blank">portfolio</a>
 - 💬 Ask me about HTML, CSS, JavaScript, Java
 - ⚡ Fun fact **I am funny😅**
