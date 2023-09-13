@@ -20,7 +20,7 @@
 
 <p align="left">
 <a href="https://ranjanji.github.io/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/726/726005.png" alt="simplified_learner" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/Subham-Ranjan/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/Subham-Ranjan/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subham ranjan" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ranjanji_27/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
 </p>
 
